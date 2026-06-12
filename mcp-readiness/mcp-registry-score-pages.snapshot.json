@@ -30,7 +30,7 @@
     "product_id": "mcp-registry-readiness-deep-packet",
     "receive_address": "0x395577ce2a2461249cf8f1ec87dae462ee6cc84b",
     "request_label": "Request a scoped readiness packet",
-    "request_url": "https://github.com/maxim-ultra/maxim-ultra.github.io/issues/new?title=MCP+readiness+packet+request&body=I+want+a+scoped+MAXIM+MCP+%2F+AI-agent+readiness+packet.%0A%0AServer+or+repo%3A+%5Bpaste+MCP+server+or+repo+URL%5D%0APublic+score+page%3A+https%3A%2F%2Fmaximultra.dev%2Fmcp-readiness%2F%0A%0ARequested+option%3A%0A-+%5B+%5D+%2429+mini-score%0A-+%5B+%5D+%2475+deep+report%0A-+%5B+%5D+Custom+fixed-scope+readiness+sprint%0A%0APayment+note%3A%0APlease+confirm+scope+and+invoice+memo+before+any+transfer.",
+    "request_url": "https://github.com/maxim-ultra/proof/issues/new?title=MCP+readiness+packet+request&body=I+want+a+scoped+MAXIM+MCP+%2F+AI-agent+readiness+packet.%0A%0AServer+or+repo%3A+%5Bpaste+MCP+server+or+repo+URL%5D%0APublic+score+page%3A+https%3A%2F%2Fmaximultra.dev%2Fmcp-readiness%2F%0A%0ARequested+option%3A%0A-+%5B+%5D+%2429+mini-score%0A-+%5B+%5D+%2475+deep+report%0A-+%5B+%5D+Custom+fixed-scope+readiness+sprint%0A%0APayment+note%3A%0APlease+confirm+scope+and+invoice+memo+before+any+transfer.",
     "verification_route": "/api/self-custody-usdc-checkout/verify-tx"
   },
   "public_base_url": "https://maximultra.dev/mcp-readiness/",
