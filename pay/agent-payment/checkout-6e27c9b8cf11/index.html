@@ -11,6 +11,9 @@
   <meta name="maxim-funnel-public-collector-url" content="" />
   <meta name="maxim-funnel-static-attribution-token" content="maxim-checkout-6e27c9b8cf11-8179757137" />
   <meta name="maxim-funnel-static-attribution-query" content="maxim_ref=maxim-checkout-6e27c9b8cf11-8179757137" />
+  <meta name="maxim-active-invoice-id" content="scusdc_6a498c70f027fde0" />
+  <meta name="maxim-active-invoice-amount-usd" content="30.0" />
+  <meta name="maxim-active-invoice-expires-at" content="2026-07-04T18:12:27.699185+00:00" />
   <meta name="maxim-funnel-commercial-rule" content="buyer_or_public events only; owner_preview is QA only" />
   <title>Clarify retry and receipt risk in Query402 issue #4</title>
   <style>
@@ -140,15 +143,17 @@
         </div>
         <div class="pay-line" aria-label="Payment instructions">
           <div>
-            <div class="price">$9 / $15 / $30</div>
-            <p class="scope">starter options</p>
+            <div class="price">$30</div>
+            <p class="scope">fixed-scope review</p>
           </div>
-          <p class="muted">Payment options: $9/$15/$30. Send USDC and reply with transaction hash.</p>
+          <p class="muted">Payment option: $30 fixed-scope review. Send USDC and reply with transaction hash.</p>
           <div class="payment-method">
             <h2>How to pay</h2>
-            <p class="chain-row"><code>USDC</code><code>Ethereum / ERC-20</code><code>0x395577...6Cc84b</code></p>
-            <code class="address" data-payment-address="0x395577cE2A2461249cF8f1Ec87DAE462eE6Cc84b" data-address-preview="0x395577...6Cc84b">0x395577cE2A2461249cF8f1Ec87DAE462eE6Cc84b</code>
+            <p class="chain-row"><code>USDC</code><code>Ethereum / ERC-20</code><code>0x395577...6cc84b</code></p>
+            <code class="address" data-payment-address="0x395577ce2a2461249cf8f1ec87dae462ee6cc84b" data-address-preview="0x395577...6cc84b">0x395577ce2a2461249cf8f1ec87dae462ee6cc84b</code>
             
+          <span class="invoice-proof" data-invoice-id="scusdc_6a498c70f027fde0" data-invoice-amount-usd="30.00" data-invoice-asset="USDC" data-invoice-network="Ethereum / ERC-20"></span>
+        
           </div>
           <a class="primary-cta" href="https://github.com/emrekayat/Query402/issues/4?maxim_ref=maxim-checkout-6e27c9b8cf11-8179757137" rel="noopener noreferrer">Reply with tx hash</a>
         </div>
@@ -156,7 +161,7 @@
   </main>
   <script data-maxim-funnel-page="agent-payment">
     (function () {
-      var basePayload = {"active_invoice_id": "", "page_id": "checkout-6e27c9b8cf11", "public_collector_url": "", "public_payment_page_url": "https://maxim-ultra.github.io/pay/agent-payment/checkout-6e27c9b8cf11", "static_attribution_token": "maxim-checkout-6e27c9b8cf11-8179757137"};
+      var basePayload = {"active_invoice_id": "scusdc_6a498c70f027fde0", "page_id": "checkout-6e27c9b8cf11", "public_collector_url": "", "public_payment_page_url": "https://maxim-ultra.github.io/pay/agent-payment/checkout-6e27c9b8cf11", "static_attribution_token": "maxim-checkout-6e27c9b8cf11-8179757137"};
       var localOrigin = /^https?:\/\/(127\.0\.0\.1|localhost)(:\d+)?$/i.test(window.location.origin);
       var configuredCollector =
         window.MAXIM_FUNNEL_COLLECTOR_URL ||
