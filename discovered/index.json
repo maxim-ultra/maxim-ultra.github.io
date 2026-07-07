@@ -1,6 +1,6 @@
 {
-  "count": 36,
-  "generated_at": "2026-07-07T10:54:41.481328+00:00",
+  "count": 48,
+  "generated_at": "2026-07-07T10:57:15.716018+00:00",
   "servers": [
     {
       "grade": "C - needs deeper review",
@@ -253,6 +253,90 @@
       "score": 94,
       "slug": "olorinm-agent-friendly-services",
       "url": "https://maxim-ultra.github.io/discovered/olorinm-agent-friendly-services/"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "name": "genego-io/legal-terminal",
+      "score": 100,
+      "slug": "genego-io-legal-terminal",
+      "url": "https://maxim-ultra.github.io/discovered/genego-io-legal-terminal/"
+    },
+    {
+      "grade": "B - solid",
+      "name": "Play-New/bending-spoons-ontology",
+      "score": 88,
+      "slug": "play-new-bending-spoons-ontology",
+      "url": "https://maxim-ultra.github.io/discovered/play-new-bending-spoons-ontology/"
+    },
+    {
+      "grade": "B - solid",
+      "name": "adambenhassen/bookingcom-mcp",
+      "score": 88,
+      "slug": "adambenhassen-bookingcom-mcp",
+      "url": "https://maxim-ultra.github.io/discovered/adambenhassen-bookingcom-mcp/"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "name": "huddx01/totalmix-mcp",
+      "score": 94,
+      "slug": "huddx01-totalmix-mcp",
+      "url": "https://maxim-ultra.github.io/discovered/huddx01-totalmix-mcp/"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "name": "mi60dev/visionaire-engine",
+      "score": 94,
+      "slug": "mi60dev-visionaire-engine",
+      "url": "https://maxim-ultra.github.io/discovered/mi60dev-visionaire-engine/"
+    },
+    {
+      "grade": "B - solid",
+      "name": "dyno-nexsoft/zentao_mcp",
+      "score": 88,
+      "slug": "dyno-nexsoft-zentao_mcp",
+      "url": "https://maxim-ultra.github.io/discovered/dyno-nexsoft-zentao_mcp/"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "name": "viniciuslazzari/bolsai-mcp",
+      "score": 94,
+      "slug": "viniciuslazzari-bolsai-mcp",
+      "url": "https://maxim-ultra.github.io/discovered/viniciuslazzari-bolsai-mcp/"
+    },
+    {
+      "grade": "B - solid",
+      "name": "dablro12/modu-emergencybell-mcp",
+      "score": 88,
+      "slug": "dablro12-modu-emergencybell-mcp",
+      "url": "https://maxim-ultra.github.io/discovered/dablro12-modu-emergencybell-mcp/"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "name": "justomsharma/github-resume-assistant",
+      "score": 94,
+      "slug": "justomsharma-github-resume-assistant",
+      "url": "https://maxim-ultra.github.io/discovered/justomsharma-github-resume-assistant/"
+    },
+    {
+      "grade": "B - solid",
+      "name": "itsablabla/garza-tools-discovery",
+      "score": 88,
+      "slug": "itsablabla-garza-tools-discovery",
+      "url": "https://maxim-ultra.github.io/discovered/itsablabla-garza-tools-discovery/"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "name": "alvabillwu/tool2mcp",
+      "score": 94,
+      "slug": "alvabillwu-tool2mcp",
+      "url": "https://maxim-ultra.github.io/discovered/alvabillwu-tool2mcp/"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "name": "kiraa06/sup-mem",
+      "score": 94,
+      "slug": "kiraa06-sup-mem",
+      "url": "https://maxim-ultra.github.io/discovered/kiraa06-sup-mem/"
     }
   ]
 }
