@@ -1,0 +1,10 @@
+{
+  "grade": "A - strong public metadata",
+  "name": "ai.agentic-news/mcp",
+  "premium_available": true,
+  "premium_endpoint": "/api/v1/premium/ai-agentic-news-mcp.json (x402, see /x402.json)",
+  "rank": 43,
+  "repository_url": "https://github.com/u00dxk2/agentic-news",
+  "score": 90,
+  "slug": "ai-agentic-news-mcp"
+}

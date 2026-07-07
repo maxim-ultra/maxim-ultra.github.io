@@ -1,0 +1,10 @@
+{
+  "grade": "B - commercially usable signal",
+  "name": "ai.contextstudios/mcp",
+  "premium_available": true,
+  "premium_endpoint": "/api/v1/premium/ai-contextstudios-mcp.json (x402, see /x402.json)",
+  "rank": 58,
+  "repository_url": "",
+  "score": 80,
+  "slug": "ai-contextstudios-mcp"
+}

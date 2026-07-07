@@ -1,0 +1,10 @@
+{
+  "grade": "C - needs deeper review",
+  "name": "ai.complyhat/compliance",
+  "premium_available": true,
+  "premium_endpoint": "/api/v1/premium/ai-complyhat-compliance.json (x402, see /x402.json)",
+  "rank": 66,
+  "repository_url": "",
+  "score": 78,
+  "slug": "ai-complyhat-compliance"
+}

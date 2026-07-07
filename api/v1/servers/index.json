@@ -1,0 +1,510 @@
+{
+  "free_tier": "basic score + grade",
+  "generated_at": "2026-07-07T10:08:59.049463+00:00",
+  "oracle": "MAXIM MCP/agent readiness trust oracle",
+  "paid_tier_discovery": "/x402.json",
+  "server_count": 100,
+  "servers": [
+    {
+      "grade": "A - strong public metadata",
+      "score": 100,
+      "slug": "ai-deinai-creator-skill"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "score": 100,
+      "slug": "ai-autonomad-travel"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "score": 100,
+      "slug": "ai-anomalyarmor-armor-mcp"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "score": 100,
+      "slug": "ai-borealhost-mcp"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "score": 100,
+      "slug": "ai-com-mcp-hapi-mcp"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "score": 92,
+      "slug": "ai-bolthub-registry"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "score": 92,
+      "slug": "ai-ankimcp-anki-mcp-server"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "score": 92,
+      "slug": "ai-dynsoft-sac"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "score": 92,
+      "slug": "ai-adeu-adeu"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "score": 92,
+      "slug": "ai-autonomad-computeback"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "score": 92,
+      "slug": "ai-buywhere-buywhere-mcp"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "score": 92,
+      "slug": "ai-cueapi-mcp"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "score": 92,
+      "slug": "ai-agenttrust-mcp-server"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "score": 92,
+      "slug": "ai-autoblocks-contextlayer-mcp"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "score": 92,
+      "slug": "ai-autoblocks-ctxl-mcp"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "score": 92,
+      "slug": "ai-autoblocks-ctxl"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "score": 92,
+      "slug": "ai-aliengiraffe-spotdb"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "score": 90,
+      "slug": "ai-aient-mcp"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "score": 90,
+      "slug": "ai-bowmark-bowmark"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "score": 90,
+      "slug": "ai-auralogs-auralogs"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "score": 90,
+      "slug": "ai-canaryusers-canaryusers"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "score": 90,
+      "slug": "ai-bareun-bareun"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "score": 90,
+      "slug": "ai-drillr-drillr"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "score": 90,
+      "slug": "ai-bittlebits-bittlebits"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "score": 90,
+      "slug": "ai-calendarmcp-server"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "score": 90,
+      "slug": "ai-agenticterminal-directory"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "score": 90,
+      "slug": "ai-boolsai-signals"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "score": 90,
+      "slug": "ai-boolsai-grep"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "score": 90,
+      "slug": "ai-boolsai-directory"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "score": 90,
+      "slug": "ai-boolsai-scan"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "score": 90,
+      "slug": "ai-auxen-auxen"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "score": 90,
+      "slug": "ai-autorfp-mcp"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "score": 90,
+      "slug": "ai-agentdm-agentdm"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "score": 90,
+      "slug": "ai-dreamlit-mcp"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "score": 90,
+      "slug": "ai-agenticshelf-mcp"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "score": 90,
+      "slug": "ai-buywhere-catalog-api"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "score": 90,
+      "slug": "ai-cosmonote-notes"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "score": 90,
+      "slug": "ai-compeller-compel"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "score": 90,
+      "slug": "ai-bankee-inferventis-mcp"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "score": 90,
+      "slug": "ai-djwizard-tvwizard"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "score": 90,
+      "slug": "ac-tandem-docs-mcp"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "score": 90,
+      "slug": "ai-abmeter-abmeter"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "score": 90,
+      "slug": "ai-agentic-news-mcp"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "score": 90,
+      "slug": "ai-cookiy-cookiy"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "score": 90,
+      "slug": "ai-clarid-hmda"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "score": 90,
+      "slug": "ai-clarid-compliance"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "score": 90,
+      "slug": "agency-lona-trading"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "score": 90,
+      "slug": "ai-com-mcp-strava"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "score": 90,
+      "slug": "ai-com-mcp-linkedin"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "score": 90,
+      "slug": "ai-com-mcp-skills-search"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "score": 90,
+      "slug": "ai-com-mcp-openai-tools"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "score": 90,
+      "slug": "ai-com-mcp-lenny-rachitsky-podcast"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "score": 90,
+      "slug": "ai-com-mcp-registry"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "score": 90,
+      "slug": "ai-com-mcp-contabo"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "score": 90,
+      "slug": "ai-com-mcp-petstore"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "score": 90,
+      "slug": "ai-cirra-salesforce-mcp"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "score": 90,
+      "slug": "ai-exa-exa"
+    },
+    {
+      "grade": "B - commercially usable signal",
+      "score": 80,
+      "slug": "ai-contextstudios-mcp"
+    },
+    {
+      "grade": "C - needs deeper review",
+      "score": 78,
+      "slug": "ai-duvera-gateway"
+    },
+    {
+      "grade": "C - needs deeper review",
+      "score": 78,
+      "slug": "ai-dynamicfeed-dynamic-feed"
+    },
+    {
+      "grade": "C - needs deeper review",
+      "score": 78,
+      "slug": "ai-bluenexus-universal-mcp"
+    },
+    {
+      "grade": "C - needs deeper review",
+      "score": 78,
+      "slug": "ai-calfeed-calfeed"
+    },
+    {
+      "grade": "C - needs deeper review",
+      "score": 78,
+      "slug": "ai-bunzee-bunzee"
+    },
+    {
+      "grade": "C - needs deeper review",
+      "score": 78,
+      "slug": "ai-edusignal-districts"
+    },
+    {
+      "grade": "C - needs deeper review",
+      "score": 78,
+      "slug": "ai-canvora-canvora"
+    },
+    {
+      "grade": "C - needs deeper review",
+      "score": 78,
+      "slug": "ai-complyhat-compliance"
+    },
+    {
+      "grade": "C - needs deeper review",
+      "score": 78,
+      "slug": "ai-deepledger-mcp"
+    },
+    {
+      "grade": "C - needs deeper review",
+      "score": 78,
+      "slug": "ai-butlerbrain-mcp"
+    },
+    {
+      "grade": "C - needs deeper review",
+      "score": 78,
+      "slug": "ai-delega-aws-pricing-calculator"
+    },
+    {
+      "grade": "C - needs deeper review",
+      "score": 78,
+      "slug": "ai-constellationfinance-constellation-finance-mcp"
+    },
+    {
+      "grade": "C - needs deeper review",
+      "score": 78,
+      "slug": "ai-arclan-registry"
+    },
+    {
+      "grade": "C - needs deeper review",
+      "score": 78,
+      "slug": "ai-demanddiscovery-mcp"
+    },
+    {
+      "grade": "C - needs deeper review",
+      "score": 78,
+      "slug": "ai-agenticshelf-graffeo"
+    },
+    {
+      "grade": "C - needs deeper review",
+      "score": 78,
+      "slug": "ai-dataforb2b-dataforb2b"
+    },
+    {
+      "grade": "C - needs deeper review",
+      "score": 78,
+      "slug": "ai-dragoneye-mcp"
+    },
+    {
+      "grade": "C - needs deeper review",
+      "score": 78,
+      "slug": "ai-conveo-conveo"
+    },
+    {
+      "grade": "C - needs deeper review",
+      "score": 78,
+      "slug": "ai-buyersense-buyersense"
+    },
+    {
+      "grade": "C - needs deeper review",
+      "score": 78,
+      "slug": "ai-baselight-baselight"
+    },
+    {
+      "grade": "C - needs deeper review",
+      "score": 78,
+      "slug": "ai-childpsychiatry-library"
+    },
+    {
+      "grade": "C - needs deeper review",
+      "score": 78,
+      "slug": "ai-childanxiety-library"
+    },
+    {
+      "grade": "C - needs deeper review",
+      "score": 78,
+      "slug": "ai-childadhd-library"
+    },
+    {
+      "grade": "C - needs deeper review",
+      "score": 78,
+      "slug": "ai-bringyour-bringyour"
+    },
+    {
+      "grade": "C - needs deeper review",
+      "score": 78,
+      "slug": "ai-example4-xmp4"
+    },
+    {
+      "grade": "C - needs deeper review",
+      "score": 78,
+      "slug": "ai-chinamarketing-intelligence"
+    },
+    {
+      "grade": "C - needs deeper review",
+      "score": 78,
+      "slug": "ai-byteray-byteray-mcp"
+    },
+    {
+      "grade": "C - needs deeper review",
+      "score": 78,
+      "slug": "ai-artidrop-artidrop"
+    },
+    {
+      "grade": "C - needs deeper review",
+      "score": 78,
+      "slug": "ac-inference-sh-mcp"
+    },
+    {
+      "grade": "C - needs deeper review",
+      "score": 78,
+      "slug": "ai-adweave-meta-ads-mcp"
+    },
+    {
+      "grade": "C - needs deeper review",
+      "score": 78,
+      "slug": "ai-donethat-donethat"
+    },
+    {
+      "grade": "C - needs deeper review",
+      "score": 78,
+      "slug": "ai-agentrapay-agentra"
+    },
+    {
+      "grade": "C - needs deeper review",
+      "score": 78,
+      "slug": "ai-adramp-google-ads"
+    },
+    {
+      "grade": "C - needs deeper review",
+      "score": 78,
+      "slug": "ai-aarna-atars-mcp"
+    },
+    {
+      "grade": "C - needs deeper review",
+      "score": 78,
+      "slug": "ai-bezal-local-commerce"
+    },
+    {
+      "grade": "C - needs deeper review",
+      "score": 78,
+      "slug": "ai-adadvisor-mcp-server"
+    },
+    {
+      "grade": "C - needs deeper review",
+      "score": 78,
+      "slug": "ai-datamerge-mcp"
+    },
+    {
+      "grade": "C - needs deeper review",
+      "score": 78,
+      "slug": "ai-anzenna-anzenna"
+    },
+    {
+      "grade": "C - needs deeper review",
+      "score": 78,
+      "slug": "ai-alpic-mcp-alpic-mcp"
+    },
+    {
+      "grade": "C - needs deeper review",
+      "score": 78,
+      "slug": "ai-appdeploy-deploy-app"
+    },
+    {
+      "grade": "C - needs deeper review",
+      "score": 78,
+      "slug": "ai-auteng-docs"
+    },
+    {
+      "grade": "C - needs deeper review",
+      "score": 78,
+      "slug": "ai-auteng-mcp"
+    }
+  ],
+  "version": "v1"
+}

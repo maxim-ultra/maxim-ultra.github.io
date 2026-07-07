@@ -1,0 +1,10 @@
+{
+  "grade": "A - strong public metadata",
+  "name": "ai.boolsai/scan",
+  "premium_available": true,
+  "premium_endpoint": "/api/v1/premium/ai-boolsai-scan.json (x402, see /x402.json)",
+  "rank": 30,
+  "repository_url": "https://github.com/Boolsai-ai/mcp",
+  "score": 90,
+  "slug": "ai-boolsai-scan"
+}

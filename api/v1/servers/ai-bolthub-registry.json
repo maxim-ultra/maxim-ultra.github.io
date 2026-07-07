@@ -1,0 +1,10 @@
+{
+  "grade": "A - strong public metadata",
+  "name": "ai.bolthub/registry",
+  "premium_available": true,
+  "premium_endpoint": "/api/v1/premium/ai-bolthub-registry.json (x402, see /x402.json)",
+  "rank": 6,
+  "repository_url": "https://github.com/signaltech-org/bolthub-sdk",
+  "score": 92,
+  "slug": "ai-bolthub-registry"
+}

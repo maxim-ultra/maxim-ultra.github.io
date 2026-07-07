@@ -1,0 +1,26 @@
+{
+  "deductions": [
+    {
+      "points": 12,
+      "reason": "example: no public repository URL in registry metadata"
+    },
+    {
+      "points": 10,
+      "reason": "example: no package install surface visible"
+    }
+  ],
+  "evidence": {
+    "registry_status": "active",
+    "remote_endpoints": 2,
+    "version_flag": true
+  },
+  "grade": "A - strong public metadata",
+  "note": "This is the SHAPE of the paid response. Live values require payment via x402.",
+  "remediation": [
+    "expose public repo URL",
+    "add package install metadata"
+  ],
+  "score": 100,
+  "slug": "ai-deinai-creator-skill",
+  "tier": "premium_full_diagnostic"
+}

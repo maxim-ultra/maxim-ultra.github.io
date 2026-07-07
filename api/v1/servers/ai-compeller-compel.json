@@ -1,0 +1,10 @@
+{
+  "grade": "A - strong public metadata",
+  "name": "ai.compeller/compel",
+  "premium_available": true,
+  "premium_endpoint": "/api/v1/premium/ai-compeller-compel.json (x402, see /x402.json)",
+  "rank": 38,
+  "repository_url": "https://github.com/Compellerai/compeller-mcp",
+  "score": 90,
+  "slug": "ai-compeller-compel"
+}

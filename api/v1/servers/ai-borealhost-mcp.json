@@ -1,0 +1,10 @@
+{
+  "grade": "A - strong public metadata",
+  "name": "ai.borealhost/mcp",
+  "premium_available": true,
+  "premium_endpoint": "/api/v1/premium/ai-borealhost-mcp.json (x402, see /x402.json)",
+  "rank": 4,
+  "repository_url": "https://github.com/alainsvrd/borealhost-mcp",
+  "score": 100,
+  "slug": "ai-borealhost-mcp"
+}

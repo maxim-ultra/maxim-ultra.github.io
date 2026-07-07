@@ -1,0 +1,10 @@
+{
+  "grade": "A - strong public metadata",
+  "name": "ai.boolsai/directory",
+  "premium_available": true,
+  "premium_endpoint": "/api/v1/premium/ai-boolsai-directory.json (x402, see /x402.json)",
+  "rank": 29,
+  "repository_url": "https://github.com/Boolsai-ai/mcp",
+  "score": 90,
+  "slug": "ai-boolsai-directory"
+}

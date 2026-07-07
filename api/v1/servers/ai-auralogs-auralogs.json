@@ -1,0 +1,10 @@
+{
+  "grade": "A - strong public metadata",
+  "name": "ai.auralogs/auralogs",
+  "premium_available": true,
+  "premium_endpoint": "/api/v1/premium/ai-auralogs-auralogs.json (x402, see /x402.json)",
+  "rank": 20,
+  "repository_url": "https://github.com/auralogs-ai/auralogs-mcp",
+  "score": 90,
+  "slug": "ai-auralogs-auralogs"
+}

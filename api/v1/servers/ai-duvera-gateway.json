@@ -1,0 +1,10 @@
+{
+  "grade": "C - needs deeper review",
+  "name": "ai.duvera/gateway",
+  "premium_available": true,
+  "premium_endpoint": "/api/v1/premium/ai-duvera-gateway.json (x402, see /x402.json)",
+  "rank": 59,
+  "repository_url": "",
+  "score": 78,
+  "slug": "ai-duvera-gateway"
+}

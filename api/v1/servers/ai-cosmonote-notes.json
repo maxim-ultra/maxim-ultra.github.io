@@ -1,0 +1,10 @@
+{
+  "grade": "A - strong public metadata",
+  "name": "ai.cosmonote/notes",
+  "premium_available": true,
+  "premium_endpoint": "/api/v1/premium/ai-cosmonote-notes.json (x402, see /x402.json)",
+  "rank": 37,
+  "repository_url": "https://github.com/cosmonote/pocketbase",
+  "score": 90,
+  "slug": "ai-cosmonote-notes"
+}

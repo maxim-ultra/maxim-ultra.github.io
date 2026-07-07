@@ -1,0 +1,10 @@
+{
+  "grade": "C - needs deeper review",
+  "name": "ai.edusignal/districts",
+  "premium_available": true,
+  "premium_endpoint": "/api/v1/premium/ai-edusignal-districts.json (x402, see /x402.json)",
+  "rank": 64,
+  "repository_url": "",
+  "score": 78,
+  "slug": "ai-edusignal-districts"
+}

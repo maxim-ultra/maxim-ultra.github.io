@@ -1,0 +1,10 @@
+{
+  "grade": "C - needs deeper review",
+  "name": "ai.example4/xmp4",
+  "premium_available": true,
+  "premium_endpoint": "/api/v1/premium/ai-example4-xmp4.json (x402, see /x402.json)",
+  "rank": 83,
+  "repository_url": "https://github.com/0ics-srls/lsai-xmp4.public",
+  "score": 78,
+  "slug": "ai-example4-xmp4"
+}

@@ -1,0 +1,29 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>MAXIM x402 Trust Oracle — pay-per-query MCP readiness</title>
+<style>body{font-family:-apple-system,system-ui,sans-serif;max-width:720px;margin:2rem auto;padding:0 1rem;color:#101828;line-height:1.55}h1{font-size:1.45rem}h2{font-size:1.05rem;margin-top:1.5rem}code,pre{background:#f4f4fa;border-radius:6px}code{padding:.15rem .4rem}pre{padding:.8rem 1rem;overflow:auto;font-size:.85rem}.sub{color:#526173}a{color:#165d9f}.honesty{background:#f6f6fb;border-radius:10px;padding:.9rem 1.1rem;font-size:.9rem;color:#444;margin-top:1.2rem}</style></head><body>
+<h1>MAXIM x402 Trust Oracle</h1>
+<p class="sub">The x402-native trust layer for MCP / AI-agent infrastructure.
+An agent about to install an MCP server asks: <b>is this safe to use?</b> —
+and pays a micro-fee in USDC to get the full readiness diagnostic. No account,
+no API key, no KYC. Payment <i>is</i> the auth.</p>
+<h2>Free tier (live now)</h2>
+<p>Basic score + grade for 100 servers, agent-fetchable:</p>
+<pre>GET /api/v1/servers/index.json
+GET /api/v1/servers/&lt;slug&gt;.json  ->  { score, grade, rank, ... }</pre>
+<h2>Paid tier (x402)</h2>
+<p>Full diagnostic — deductions, evidence, remediation — metered per query:</p>
+<pre>GET /api/v1/premium/&lt;slug&gt;.json
+&rarr; 402 Payment Required + x402 terms (0.25 USDC, Base)
+pay USDC on Base to the payTo address, then:
+GET /api/v1/premium/&lt;slug&gt;.json?tx=&lt;hash&gt;
+&rarr; 200 { full diagnostic }</pre>
+<p class="sub">Discovery manifest: <a href="/x402.json">/x402.json</a> &middot;
+<a href="/.well-known/x402">/.well-known/x402</a>. Settlement is self-custody;
+the server verifies your on-chain USDC transfer read-only before releasing the
+resource. Reference client + server code are open-sourced with the project.</p>
+<div class="honesty">Honesty: readiness signals, not certification. The free tier
+is genuinely free and complete for basic scores. The metered endpoint requires
+the live server (owner-deployed); the manifest, free API, and reference client
+are live today. No revenue claim — this is new public infrastructure.</div>
+</body></html>

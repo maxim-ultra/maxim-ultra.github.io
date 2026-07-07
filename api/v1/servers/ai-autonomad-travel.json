@@ -1,0 +1,10 @@
+{
+  "grade": "A - strong public metadata",
+  "name": "ai.autonomad/travel",
+  "premium_available": true,
+  "premium_endpoint": "/api/v1/premium/ai-autonomad-travel.json (x402, see /x402.json)",
+  "rank": 2,
+  "repository_url": "https://github.com/Autonomad1/autonomad1",
+  "score": 100,
+  "slug": "ai-autonomad-travel"
+}

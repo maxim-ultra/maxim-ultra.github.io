@@ -1,0 +1,10 @@
+{
+  "grade": "A - strong public metadata",
+  "name": "ai.com.mcp/skills-search",
+  "premium_available": true,
+  "premium_endpoint": "/api/v1/premium/ai-com-mcp-skills-search.json (x402, see /x402.json)",
+  "rank": 50,
+  "repository_url": "https://github.com/agentskills/agentskills",
+  "score": 90,
+  "slug": "ai-com-mcp-skills-search"
+}

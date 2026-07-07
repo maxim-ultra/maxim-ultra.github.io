@@ -1,0 +1,10 @@
+{
+  "grade": "A - strong public metadata",
+  "name": "ai.ankimcp/anki-mcp-server",
+  "premium_available": true,
+  "premium_endpoint": "/api/v1/premium/ai-ankimcp-anki-mcp-server.json (x402, see /x402.json)",
+  "rank": 7,
+  "repository_url": "https://github.com/ankimcp/anki-mcp-server",
+  "score": 92,
+  "slug": "ai-ankimcp-anki-mcp-server"
+}

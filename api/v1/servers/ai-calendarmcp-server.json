@@ -1,0 +1,10 @@
+{
+  "grade": "A - strong public metadata",
+  "name": "ai.calendarmcp/server",
+  "premium_available": true,
+  "premium_endpoint": "/api/v1/premium/ai-calendarmcp-server.json (x402, see /x402.json)",
+  "rank": 25,
+  "repository_url": "https://github.com/Full-Vibe/calendarmcp-public",
+  "score": 90,
+  "slug": "ai-calendarmcp-server"
+}

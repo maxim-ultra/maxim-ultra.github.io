@@ -1,0 +1,10 @@
+{
+  "grade": "A - strong public metadata",
+  "name": "ai.aient/mcp",
+  "premium_available": true,
+  "premium_endpoint": "/api/v1/premium/ai-aient-mcp.json (x402, see /x402.json)",
+  "rank": 18,
+  "repository_url": "https://github.com/haf/glimt",
+  "score": 90,
+  "slug": "ai-aient-mcp"
+}

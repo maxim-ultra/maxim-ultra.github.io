@@ -1,0 +1,10 @@
+{
+  "grade": "A - strong public metadata",
+  "name": "ai.agenticshelf/mcp",
+  "premium_available": true,
+  "premium_endpoint": "/api/v1/premium/ai-agenticshelf-mcp.json (x402, see /x402.json)",
+  "rank": 35,
+  "repository_url": "https://github.com/vboykoCTO/agentic-shelf",
+  "score": 90,
+  "slug": "ai-agenticshelf-mcp"
+}

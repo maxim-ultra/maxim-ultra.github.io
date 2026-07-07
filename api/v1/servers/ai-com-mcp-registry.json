@@ -1,0 +1,10 @@
+{
+  "grade": "A - strong public metadata",
+  "name": "ai.com.mcp/registry",
+  "premium_available": true,
+  "premium_endpoint": "/api/v1/premium/ai-com-mcp-registry.json (x402, see /x402.json)",
+  "rank": 53,
+  "repository_url": "https://github.com/modelcontextprotocol/registry",
+  "score": 90,
+  "slug": "ai-com-mcp-registry"
+}

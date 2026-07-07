@@ -1,0 +1,10 @@
+{
+  "grade": "A - strong public metadata",
+  "name": "ai.adeu/adeu",
+  "premium_available": true,
+  "premium_endpoint": "/api/v1/premium/ai-adeu-adeu.json (x402, see /x402.json)",
+  "rank": 9,
+  "repository_url": "https://github.com/dealfluence/adeu",
+  "score": 92,
+  "slug": "ai-adeu-adeu"
+}

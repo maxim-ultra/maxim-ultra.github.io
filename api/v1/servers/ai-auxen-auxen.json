@@ -1,0 +1,10 @@
+{
+  "grade": "A - strong public metadata",
+  "name": "ai.auxen/auxen",
+  "premium_available": true,
+  "premium_endpoint": "/api/v1/premium/ai-auxen-auxen.json (x402, see /x402.json)",
+  "rank": 31,
+  "repository_url": "https://github.com/auxen-ai/auxen-mcp",
+  "score": 90,
+  "slug": "ai-auxen-auxen"
+}

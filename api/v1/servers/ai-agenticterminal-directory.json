@@ -1,0 +1,10 @@
+{
+  "grade": "A - strong public metadata",
+  "name": "ai.agenticterminal/directory",
+  "premium_available": true,
+  "premium_endpoint": "/api/v1/premium/ai-agenticterminal-directory.json (x402, see /x402.json)",
+  "rank": 26,
+  "repository_url": "https://github.com/observer-protocol/at-directory",
+  "score": 90,
+  "slug": "ai-agenticterminal-directory"
+}

@@ -1,0 +1,10 @@
+{
+  "grade": "A - strong public metadata",
+  "name": "ai.com.mcp/hapi-mcp",
+  "premium_available": true,
+  "premium_endpoint": "/api/v1/premium/ai-com-mcp-hapi-mcp.json (x402, see /x402.json)",
+  "rank": 5,
+  "repository_url": "https://github.com/larebelion/hapimcp",
+  "score": 100,
+  "slug": "ai-com-mcp-hapi-mcp"
+}

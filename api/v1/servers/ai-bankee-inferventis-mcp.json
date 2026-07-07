@@ -1,0 +1,10 @@
+{
+  "grade": "A - strong public metadata",
+  "name": "ai.bankee/inferventis-mcp",
+  "premium_available": true,
+  "premium_endpoint": "/api/v1/premium/ai-bankee-inferventis-mcp.json (x402, see /x402.json)",
+  "rank": 39,
+  "repository_url": "https://github.com/Bankee-ai/inferventis",
+  "score": 90,
+  "slug": "ai-bankee-inferventis-mcp"
+}

@@ -1,0 +1,10 @@
+{
+  "grade": "A - strong public metadata",
+  "name": "ai.anomalyarmor/armor-mcp",
+  "premium_available": true,
+  "premium_endpoint": "/api/v1/premium/ai-anomalyarmor-armor-mcp.json (x402, see /x402.json)",
+  "rank": 3,
+  "repository_url": "https://github.com/anomalyarmor/agents",
+  "score": 100,
+  "slug": "ai-anomalyarmor-armor-mcp"
+}

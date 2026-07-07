@@ -1,0 +1,10 @@
+{
+  "grade": "A - strong public metadata",
+  "name": "ai.exa/exa",
+  "premium_available": true,
+  "premium_endpoint": "/api/v1/premium/ai-exa-exa.json (x402, see /x402.json)",
+  "rank": 57,
+  "repository_url": "https://github.com/exa-labs/exa-mcp-server",
+  "score": 90,
+  "slug": "ai-exa-exa"
+}

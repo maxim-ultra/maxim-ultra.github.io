@@ -1,0 +1,10 @@
+{
+  "grade": "C - needs deeper review",
+  "name": "ac.inference.sh/mcp",
+  "premium_available": true,
+  "premium_endpoint": "/api/v1/premium/ac-inference-sh-mcp.json (x402, see /x402.json)",
+  "rank": 87,
+  "repository_url": "",
+  "score": 78,
+  "slug": "ac-inference-sh-mcp"
+}

@@ -1,0 +1,31 @@
+{
+  "accepts": [
+    {
+      "asset": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+      "maxAmountRequired": "0.25",
+      "mimeType": "application/json",
+      "network": "base",
+      "payTo": "0x395577cE2A2461249cF8f1Ec87DAE462eE6Cc84b",
+      "resource": "/api/v1/premium/{slug}.json",
+      "scheme": "exact"
+    },
+    {
+      "asset": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+      "maxAmountRequired": "0.10",
+      "mimeType": "application/json",
+      "network": "base",
+      "note": "single basic score fetch (also free at /api/v1/servers/{slug}.json)",
+      "payTo": "0x395577cE2A2461249cF8f1Ec87DAE462eE6Cc84b",
+      "resource": "/api/v1/score/{slug}.json",
+      "scheme": "exact"
+    }
+  ],
+  "description": "Pay per query to retrieve a server's full readiness diagnostic (score, deductions, evidence, remediation).",
+  "docs": "https://maxim-ultra.github.io/x402/",
+  "facilitator_optional": true,
+  "free_tier": "/api/v1/servers/index.json and /api/v1/servers/{slug}.json",
+  "generated_at": "2026-07-07T10:08:59.273107+00:00",
+  "resource": "MAXIM MCP/agent-readiness trust oracle \u2014 premium full diagnostic",
+  "settlement": "self-custody; on-chain USDC transfer verified read-only before premium release",
+  "x402Version": 1
+}
