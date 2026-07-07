@@ -1,0 +1,13 @@
+{
+  "below_70_count": 0,
+  "generated_at": "2026-07-07T10:20:53.159082+00:00",
+  "grade_distribution": {
+    "A": 57,
+    "B": 1,
+    "C": 42
+  },
+  "median_score": 90,
+  "perfect_score_count": 5,
+  "server_count": 100,
+  "snapshot_date": "2026-07-07"
+}

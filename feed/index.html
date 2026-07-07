@@ -1,0 +1,44 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>MCP Reliability Feed — MAXIM benchmark data</title>
+<style>body{font-family:-apple-system,system-ui,sans-serif;max-width:720px;margin:2rem auto;padding:0 1rem;color:#101828;line-height:1.55}h1{font-size:1.45rem}h2{font-size:1.05rem;margin-top:1.5rem}code,pre{background:#f4f4fa;border-radius:6px}code{padding:.15rem .4rem}pre{padding:.8rem 1rem;overflow:auto;font-size:.85rem}.sub{color:#526173}a{color:#165d9f}.card{border:1px solid #d8e1ec;border-radius:10px;padding:.9rem 1.1rem;margin:.8rem 0}.honesty{background:#f6f6fb;border-radius:10px;padding:.9rem 1.1rem;font-size:.9rem;color:#444;margin-top:1.2rem}</style></head><body>
+<h1>MCP / Agent Reliability Feed</h1>
+<p class="sub">A continuously updated dataset of how AI-agent infrastructure
+behaves over time: which MCP servers are reliable, how their readiness scores
+move, and what failure patterns emerge. The value isn't a snapshot — it's the
+<b>time series</b>. Useful for agent routers, MCP marketplaces, eval teams, and
+model labs building agent tooling.</p>
+
+<h2>Free tier (live)</h2>
+<div class="card">
+<pre>GET /feed/latest.json      current snapshot (100 servers, hashed)
+GET /feed/summary.json     grade distribution, median, movers
+GET /feed/changelog.json   score changes vs previous snapshot
+GET /feed/history/&lt;date&gt;.json   daily archive (the time-series)</pre>
+Attribution required. Integrity-hashed so you can verify.
+</div>
+
+<h2>Premium subscription</h2>
+<div class="card">
+<b>50 USDC / month</b> — 3 founding slots. Weekly signed JSON with full
+per-server diagnostics, 30-day trend flags, new-failure-pattern detection, and
+priority on new-server coverage requests. Self-custody USDC; cancel by not
+renewing. Sample shape: <a href="/feed/premium/">/feed/premium/</a>.
+<br><br>To subscribe: send 50 USDC (Ethereum/Base) to
+<code>0x395577cE2A2461249cF8f1Ec87DAE462eE6Cc84b</code> and mention
+<code>@maxim-ultra</code> with "reliability feed" + your tx hash. Detected
+automatically; first delivery within 24h.
+</div>
+
+<h2>Enterprise data licensing</h2>
+<div class="card">
+Need the full longitudinal dataset for eval/training or a marketplace
+integration? That's a licensing conversation — open an issue on
+<a href="https://github.com/maxim-ultra/proof/issues/new?title=Reliability+feed+licensing">maxim-ultra/proof</a>
+or mention @maxim-ultra. One dataset license ≈ a year of individual audits.
+</div>
+
+<div class="honesty">Honesty: readiness signals, not certification. The free tier
+is complete and genuinely free. The time-series deepens daily as the benchmark
+runs. No revenue claim — this is a new public dataset with a paid tier on top.</div>
+</body></html>

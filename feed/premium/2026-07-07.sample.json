@@ -1,0 +1,18 @@
+{
+  "delivery": "weekly signed JSON to subscribers (self-custody USDC sub)",
+  "includes": [
+    "full per-server diagnostics",
+    "score deltas + 30d trend",
+    "new-failure-pattern flags",
+    "machine-readable, integrity-hashed"
+  ],
+  "price": "50 USDC / month (founding: 3 slots)",
+  "sample_row": {
+    "diagnostics": "full deductions + evidence + remediation (paid)",
+    "name": "ai.deinai/creator-skill",
+    "score": 100,
+    "trend_30d": "flat"
+  },
+  "snapshot_date": "2026-07-07",
+  "tier": "premium_subscription"
+}

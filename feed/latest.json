@@ -1,0 +1,711 @@
+{
+  "content_hash": "77c5e22a2248a53e",
+  "feed": "MCP/agent reliability feed",
+  "generated_at": "2026-07-07T10:20:53.150674+00:00",
+  "license": "free tier: attribution required; premium tier: see /feed/premium",
+  "server_count": 100,
+  "servers": [
+    {
+      "deducted_points": 0,
+      "grade": "A - strong public metadata",
+      "name": "ai.deinai/creator-skill",
+      "rank": 1,
+      "score": 100
+    },
+    {
+      "deducted_points": 0,
+      "grade": "A - strong public metadata",
+      "name": "ai.autonomad/travel",
+      "rank": 2,
+      "score": 100
+    },
+    {
+      "deducted_points": 0,
+      "grade": "A - strong public metadata",
+      "name": "ai.anomalyarmor/armor-mcp",
+      "rank": 3,
+      "score": 100
+    },
+    {
+      "deducted_points": 0,
+      "grade": "A - strong public metadata",
+      "name": "ai.borealhost/mcp",
+      "rank": 4,
+      "score": 100
+    },
+    {
+      "deducted_points": 0,
+      "grade": "A - strong public metadata",
+      "name": "ai.com.mcp/hapi-mcp",
+      "rank": 5,
+      "score": 100
+    },
+    {
+      "deducted_points": 8,
+      "grade": "A - strong public metadata",
+      "name": "ai.bolthub/registry",
+      "rank": 6,
+      "score": 92
+    },
+    {
+      "deducted_points": 8,
+      "grade": "A - strong public metadata",
+      "name": "ai.ankimcp/anki-mcp-server",
+      "rank": 7,
+      "score": 92
+    },
+    {
+      "deducted_points": 8,
+      "grade": "A - strong public metadata",
+      "name": "ai.dynsoft/sac",
+      "rank": 8,
+      "score": 92
+    },
+    {
+      "deducted_points": 8,
+      "grade": "A - strong public metadata",
+      "name": "ai.adeu/adeu",
+      "rank": 9,
+      "score": 92
+    },
+    {
+      "deducted_points": 8,
+      "grade": "A - strong public metadata",
+      "name": "ai.autonomad/computeback",
+      "rank": 10,
+      "score": 92
+    },
+    {
+      "deducted_points": 8,
+      "grade": "A - strong public metadata",
+      "name": "ai.buywhere/buywhere-mcp",
+      "rank": 11,
+      "score": 92
+    },
+    {
+      "deducted_points": 8,
+      "grade": "A - strong public metadata",
+      "name": "ai.cueapi/mcp",
+      "rank": 12,
+      "score": 92
+    },
+    {
+      "deducted_points": 8,
+      "grade": "A - strong public metadata",
+      "name": "ai.agenttrust/mcp-server",
+      "rank": 13,
+      "score": 92
+    },
+    {
+      "deducted_points": 8,
+      "grade": "A - strong public metadata",
+      "name": "ai.autoblocks/contextlayer-mcp",
+      "rank": 14,
+      "score": 92
+    },
+    {
+      "deducted_points": 8,
+      "grade": "A - strong public metadata",
+      "name": "ai.autoblocks/ctxl-mcp",
+      "rank": 15,
+      "score": 92
+    },
+    {
+      "deducted_points": 8,
+      "grade": "A - strong public metadata",
+      "name": "ai.autoblocks/ctxl",
+      "rank": 16,
+      "score": 92
+    },
+    {
+      "deducted_points": 8,
+      "grade": "A - strong public metadata",
+      "name": "ai.aliengiraffe/spotdb",
+      "rank": 17,
+      "score": 92
+    },
+    {
+      "deducted_points": 10,
+      "grade": "A - strong public metadata",
+      "name": "ai.aient/mcp",
+      "rank": 18,
+      "score": 90
+    },
+    {
+      "deducted_points": 10,
+      "grade": "A - strong public metadata",
+      "name": "ai.bowmark/bowmark",
+      "rank": 19,
+      "score": 90
+    },
+    {
+      "deducted_points": 10,
+      "grade": "A - strong public metadata",
+      "name": "ai.auralogs/auralogs",
+      "rank": 20,
+      "score": 90
+    },
+    {
+      "deducted_points": 10,
+      "grade": "A - strong public metadata",
+      "name": "ai.canaryusers/canaryusers",
+      "rank": 21,
+      "score": 90
+    },
+    {
+      "deducted_points": 10,
+      "grade": "A - strong public metadata",
+      "name": "ai.bareun/bareun",
+      "rank": 22,
+      "score": 90
+    },
+    {
+      "deducted_points": 10,
+      "grade": "A - strong public metadata",
+      "name": "ai.drillr/drillr",
+      "rank": 23,
+      "score": 90
+    },
+    {
+      "deducted_points": 10,
+      "grade": "A - strong public metadata",
+      "name": "ai.bittlebits/bittlebits",
+      "rank": 24,
+      "score": 90
+    },
+    {
+      "deducted_points": 10,
+      "grade": "A - strong public metadata",
+      "name": "ai.calendarmcp/server",
+      "rank": 25,
+      "score": 90
+    },
+    {
+      "deducted_points": 10,
+      "grade": "A - strong public metadata",
+      "name": "ai.agenticterminal/directory",
+      "rank": 26,
+      "score": 90
+    },
+    {
+      "deducted_points": 10,
+      "grade": "A - strong public metadata",
+      "name": "ai.boolsai/signals",
+      "rank": 27,
+      "score": 90
+    },
+    {
+      "deducted_points": 10,
+      "grade": "A - strong public metadata",
+      "name": "ai.boolsai/grep",
+      "rank": 28,
+      "score": 90
+    },
+    {
+      "deducted_points": 10,
+      "grade": "A - strong public metadata",
+      "name": "ai.boolsai/directory",
+      "rank": 29,
+      "score": 90
+    },
+    {
+      "deducted_points": 10,
+      "grade": "A - strong public metadata",
+      "name": "ai.boolsai/scan",
+      "rank": 30,
+      "score": 90
+    },
+    {
+      "deducted_points": 10,
+      "grade": "A - strong public metadata",
+      "name": "ai.auxen/auxen",
+      "rank": 31,
+      "score": 90
+    },
+    {
+      "deducted_points": 10,
+      "grade": "A - strong public metadata",
+      "name": "ai.autorfp/mcp",
+      "rank": 32,
+      "score": 90
+    },
+    {
+      "deducted_points": 10,
+      "grade": "A - strong public metadata",
+      "name": "ai.agentdm/agentdm",
+      "rank": 33,
+      "score": 90
+    },
+    {
+      "deducted_points": 10,
+      "grade": "A - strong public metadata",
+      "name": "ai.dreamlit/mcp",
+      "rank": 34,
+      "score": 90
+    },
+    {
+      "deducted_points": 10,
+      "grade": "A - strong public metadata",
+      "name": "ai.agenticshelf/mcp",
+      "rank": 35,
+      "score": 90
+    },
+    {
+      "deducted_points": 10,
+      "grade": "A - strong public metadata",
+      "name": "ai.buywhere/catalog-api",
+      "rank": 36,
+      "score": 90
+    },
+    {
+      "deducted_points": 10,
+      "grade": "A - strong public metadata",
+      "name": "ai.cosmonote/notes",
+      "rank": 37,
+      "score": 90
+    },
+    {
+      "deducted_points": 10,
+      "grade": "A - strong public metadata",
+      "name": "ai.compeller/compel",
+      "rank": 38,
+      "score": 90
+    },
+    {
+      "deducted_points": 10,
+      "grade": "A - strong public metadata",
+      "name": "ai.bankee/inferventis-mcp",
+      "rank": 39,
+      "score": 90
+    },
+    {
+      "deducted_points": 10,
+      "grade": "A - strong public metadata",
+      "name": "ai.djwizard/tvwizard",
+      "rank": 40,
+      "score": 90
+    },
+    {
+      "deducted_points": 10,
+      "grade": "A - strong public metadata",
+      "name": "ac.tandem/docs-mcp",
+      "rank": 41,
+      "score": 90
+    },
+    {
+      "deducted_points": 10,
+      "grade": "A - strong public metadata",
+      "name": "ai.abmeter/abmeter",
+      "rank": 42,
+      "score": 90
+    },
+    {
+      "deducted_points": 10,
+      "grade": "A - strong public metadata",
+      "name": "ai.agentic-news/mcp",
+      "rank": 43,
+      "score": 90
+    },
+    {
+      "deducted_points": 10,
+      "grade": "A - strong public metadata",
+      "name": "ai.cookiy/cookiy",
+      "rank": 44,
+      "score": 90
+    },
+    {
+      "deducted_points": 10,
+      "grade": "A - strong public metadata",
+      "name": "ai.clarid/hmda",
+      "rank": 45,
+      "score": 90
+    },
+    {
+      "deducted_points": 10,
+      "grade": "A - strong public metadata",
+      "name": "ai.clarid/compliance",
+      "rank": 46,
+      "score": 90
+    },
+    {
+      "deducted_points": 10,
+      "grade": "A - strong public metadata",
+      "name": "agency.lona/trading",
+      "rank": 47,
+      "score": 90
+    },
+    {
+      "deducted_points": 10,
+      "grade": "A - strong public metadata",
+      "name": "ai.com.mcp/strava",
+      "rank": 48,
+      "score": 90
+    },
+    {
+      "deducted_points": 10,
+      "grade": "A - strong public metadata",
+      "name": "ai.com.mcp/linkedin",
+      "rank": 49,
+      "score": 90
+    },
+    {
+      "deducted_points": 10,
+      "grade": "A - strong public metadata",
+      "name": "ai.com.mcp/skills-search",
+      "rank": 50,
+      "score": 90
+    },
+    {
+      "deducted_points": 10,
+      "grade": "A - strong public metadata",
+      "name": "ai.com.mcp/openai-tools",
+      "rank": 51,
+      "score": 90
+    },
+    {
+      "deducted_points": 10,
+      "grade": "A - strong public metadata",
+      "name": "ai.com.mcp/lenny-rachitsky-podcast",
+      "rank": 52,
+      "score": 90
+    },
+    {
+      "deducted_points": 10,
+      "grade": "A - strong public metadata",
+      "name": "ai.com.mcp/registry",
+      "rank": 53,
+      "score": 90
+    },
+    {
+      "deducted_points": 10,
+      "grade": "A - strong public metadata",
+      "name": "ai.com.mcp/contabo",
+      "rank": 54,
+      "score": 90
+    },
+    {
+      "deducted_points": 10,
+      "grade": "A - strong public metadata",
+      "name": "ai.com.mcp/petstore",
+      "rank": 55,
+      "score": 90
+    },
+    {
+      "deducted_points": 10,
+      "grade": "A - strong public metadata",
+      "name": "ai.cirra/salesforce-mcp",
+      "rank": 56,
+      "score": 90
+    },
+    {
+      "deducted_points": 10,
+      "grade": "A - strong public metadata",
+      "name": "ai.exa/exa",
+      "rank": 57,
+      "score": 90
+    },
+    {
+      "deducted_points": 20,
+      "grade": "B - commercially usable signal",
+      "name": "ai.contextstudios/mcp",
+      "rank": 58,
+      "score": 80
+    },
+    {
+      "deducted_points": 22,
+      "grade": "C - needs deeper review",
+      "name": "ai.duvera/gateway",
+      "rank": 59,
+      "score": 78
+    },
+    {
+      "deducted_points": 22,
+      "grade": "C - needs deeper review",
+      "name": "ai.dynamicfeed/dynamic-feed",
+      "rank": 60,
+      "score": 78
+    },
+    {
+      "deducted_points": 22,
+      "grade": "C - needs deeper review",
+      "name": "ai.bluenexus/universal-mcp",
+      "rank": 61,
+      "score": 78
+    },
+    {
+      "deducted_points": 22,
+      "grade": "C - needs deeper review",
+      "name": "ai.calfeed/calfeed",
+      "rank": 62,
+      "score": 78
+    },
+    {
+      "deducted_points": 22,
+      "grade": "C - needs deeper review",
+      "name": "ai.bunzee/bunzee",
+      "rank": 63,
+      "score": 78
+    },
+    {
+      "deducted_points": 22,
+      "grade": "C - needs deeper review",
+      "name": "ai.edusignal/districts",
+      "rank": 64,
+      "score": 78
+    },
+    {
+      "deducted_points": 22,
+      "grade": "C - needs deeper review",
+      "name": "ai.canvora/canvora",
+      "rank": 65,
+      "score": 78
+    },
+    {
+      "deducted_points": 22,
+      "grade": "C - needs deeper review",
+      "name": "ai.complyhat/compliance",
+      "rank": 66,
+      "score": 78
+    },
+    {
+      "deducted_points": 22,
+      "grade": "C - needs deeper review",
+      "name": "ai.deepledger/mcp",
+      "rank": 67,
+      "score": 78
+    },
+    {
+      "deducted_points": 22,
+      "grade": "C - needs deeper review",
+      "name": "ai.butlerbrain/mcp",
+      "rank": 68,
+      "score": 78
+    },
+    {
+      "deducted_points": 22,
+      "grade": "C - needs deeper review",
+      "name": "ai.delega/aws-pricing-calculator",
+      "rank": 69,
+      "score": 78
+    },
+    {
+      "deducted_points": 22,
+      "grade": "C - needs deeper review",
+      "name": "ai.constellationfinance/constellation-finance-mcp",
+      "rank": 70,
+      "score": 78
+    },
+    {
+      "deducted_points": 22,
+      "grade": "C - needs deeper review",
+      "name": "ai.arclan/registry",
+      "rank": 71,
+      "score": 78
+    },
+    {
+      "deducted_points": 22,
+      "grade": "C - needs deeper review",
+      "name": "ai.demanddiscovery/mcp",
+      "rank": 72,
+      "score": 78
+    },
+    {
+      "deducted_points": 22,
+      "grade": "C - needs deeper review",
+      "name": "ai.agenticshelf/graffeo",
+      "rank": 73,
+      "score": 78
+    },
+    {
+      "deducted_points": 22,
+      "grade": "C - needs deeper review",
+      "name": "ai.dataforb2b/dataforb2b",
+      "rank": 74,
+      "score": 78
+    },
+    {
+      "deducted_points": 22,
+      "grade": "C - needs deeper review",
+      "name": "ai.dragoneye/mcp",
+      "rank": 75,
+      "score": 78
+    },
+    {
+      "deducted_points": 22,
+      "grade": "C - needs deeper review",
+      "name": "ai.conveo/conveo",
+      "rank": 76,
+      "score": 78
+    },
+    {
+      "deducted_points": 22,
+      "grade": "C - needs deeper review",
+      "name": "ai.buyersense/buyersense",
+      "rank": 77,
+      "score": 78
+    },
+    {
+      "deducted_points": 22,
+      "grade": "C - needs deeper review",
+      "name": "ai.baselight/baselight",
+      "rank": 78,
+      "score": 78
+    },
+    {
+      "deducted_points": 22,
+      "grade": "C - needs deeper review",
+      "name": "ai.childpsychiatry/library",
+      "rank": 79,
+      "score": 78
+    },
+    {
+      "deducted_points": 22,
+      "grade": "C - needs deeper review",
+      "name": "ai.childanxiety/library",
+      "rank": 80,
+      "score": 78
+    },
+    {
+      "deducted_points": 22,
+      "grade": "C - needs deeper review",
+      "name": "ai.childadhd/library",
+      "rank": 81,
+      "score": 78
+    },
+    {
+      "deducted_points": 22,
+      "grade": "C - needs deeper review",
+      "name": "ai.bringyour/bringyour",
+      "rank": 82,
+      "score": 78
+    },
+    {
+      "deducted_points": 22,
+      "grade": "C - needs deeper review",
+      "name": "ai.example4/xmp4",
+      "rank": 83,
+      "score": 78
+    },
+    {
+      "deducted_points": 22,
+      "grade": "C - needs deeper review",
+      "name": "ai.chinamarketing/intelligence",
+      "rank": 84,
+      "score": 78
+    },
+    {
+      "deducted_points": 22,
+      "grade": "C - needs deeper review",
+      "name": "ai.byteray/byteray-mcp",
+      "rank": 85,
+      "score": 78
+    },
+    {
+      "deducted_points": 22,
+      "grade": "C - needs deeper review",
+      "name": "ai.artidrop/artidrop",
+      "rank": 86,
+      "score": 78
+    },
+    {
+      "deducted_points": 22,
+      "grade": "C - needs deeper review",
+      "name": "ac.inference.sh/mcp",
+      "rank": 87,
+      "score": 78
+    },
+    {
+      "deducted_points": 22,
+      "grade": "C - needs deeper review",
+      "name": "ai.adweave/meta-ads-mcp",
+      "rank": 88,
+      "score": 78
+    },
+    {
+      "deducted_points": 22,
+      "grade": "C - needs deeper review",
+      "name": "ai.donethat/donethat",
+      "rank": 89,
+      "score": 78
+    },
+    {
+      "deducted_points": 22,
+      "grade": "C - needs deeper review",
+      "name": "ai.agentrapay/agentra",
+      "rank": 90,
+      "score": 78
+    },
+    {
+      "deducted_points": 22,
+      "grade": "C - needs deeper review",
+      "name": "ai.adramp/google-ads",
+      "rank": 91,
+      "score": 78
+    },
+    {
+      "deducted_points": 22,
+      "grade": "C - needs deeper review",
+      "name": "ai.aarna/atars-mcp",
+      "rank": 92,
+      "score": 78
+    },
+    {
+      "deducted_points": 22,
+      "grade": "C - needs deeper review",
+      "name": "ai.bezal/local-commerce",
+      "rank": 93,
+      "score": 78
+    },
+    {
+      "deducted_points": 22,
+      "grade": "C - needs deeper review",
+      "name": "ai.adadvisor/mcp-server",
+      "rank": 94,
+      "score": 78
+    },
+    {
+      "deducted_points": 22,
+      "grade": "C - needs deeper review",
+      "name": "ai.datamerge/mcp",
+      "rank": 95,
+      "score": 78
+    },
+    {
+      "deducted_points": 22,
+      "grade": "C - needs deeper review",
+      "name": "ai.anzenna/anzenna",
+      "rank": 96,
+      "score": 78
+    },
+    {
+      "deducted_points": 22,
+      "grade": "C - needs deeper review",
+      "name": "ai.alpic.mcp/alpic-mcp",
+      "rank": 97,
+      "score": 78
+    },
+    {
+      "deducted_points": 22,
+      "grade": "C - needs deeper review",
+      "name": "ai.appdeploy/deploy-app",
+      "rank": 98,
+      "score": 78
+    },
+    {
+      "deducted_points": 22,
+      "grade": "C - needs deeper review",
+      "name": "ai.auteng/docs",
+      "rank": 99,
+      "score": 78
+    },
+    {
+      "deducted_points": 22,
+      "grade": "C - needs deeper review",
+      "name": "ai.auteng/mcp",
+      "rank": 100,
+      "score": 78
+    }
+  ],
+  "snapshot_date": "2026-07-07",
+  "version": "v1"
+}
