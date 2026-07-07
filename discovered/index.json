@@ -1,0 +1,258 @@
+{
+  "count": 36,
+  "generated_at": "2026-07-07T10:54:41.481328+00:00",
+  "servers": [
+    {
+      "grade": "C - needs deeper review",
+      "name": "kingithegreat/yt-dlp-mcp",
+      "score": 76,
+      "slug": "kingithegreat-yt-dlp-mcp",
+      "url": "https://maxim-ultra.github.io/discovered/kingithegreat-yt-dlp-mcp/"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "name": "uptimepage/uptimepage",
+      "score": 100,
+      "slug": "uptimepage-uptimepage",
+      "url": "https://maxim-ultra.github.io/discovered/uptimepage-uptimepage/"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "name": "Atypical-Consulting/MarkdownInk",
+      "score": 94,
+      "slug": "atypical-consulting-markdownink",
+      "url": "https://maxim-ultra.github.io/discovered/atypical-consulting-markdownink/"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "name": "oaslananka/zaptrace",
+      "score": 100,
+      "slug": "oaslananka-zaptrace",
+      "url": "https://maxim-ultra.github.io/discovered/oaslananka-zaptrace/"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "name": "moadim-io/daemon",
+      "score": 95,
+      "slug": "moadim-io-daemon",
+      "url": "https://maxim-ultra.github.io/discovered/moadim-io-daemon/"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "name": "GiacomoSaccaggi/scomp_link",
+      "score": 94,
+      "slug": "giacomosaccaggi-scomp_link",
+      "url": "https://maxim-ultra.github.io/discovered/giacomosaccaggi-scomp_link/"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "name": "danni-bg/danni-bg",
+      "score": 94,
+      "slug": "danni-bg-danni-bg",
+      "url": "https://maxim-ultra.github.io/discovered/danni-bg-danni-bg/"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "name": "CoinRithm/coinrithm-agent-trading",
+      "score": 100,
+      "slug": "coinrithm-coinrithm-agent-trading",
+      "url": "https://maxim-ultra.github.io/discovered/coinrithm-coinrithm-agent-trading/"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "name": "benwu95/prospec",
+      "score": 100,
+      "slug": "benwu95-prospec",
+      "url": "https://maxim-ultra.github.io/discovered/benwu95-prospec/"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "name": "AVIDS2/memorix",
+      "score": 94,
+      "slug": "avids2-memorix",
+      "url": "https://maxim-ultra.github.io/discovered/avids2-memorix/"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "name": "NickoScope/nickol-knx-mcp",
+      "score": 100,
+      "slug": "nickoscope-nickol-knx-mcp",
+      "url": "https://maxim-ultra.github.io/discovered/nickoscope-nickol-knx-mcp/"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "name": "NovadaLabs/Novada-mcp",
+      "score": 94,
+      "slug": "novadalabs-novada-mcp",
+      "url": "https://maxim-ultra.github.io/discovered/novadalabs-novada-mcp/"
+    },
+    {
+      "grade": "B - solid",
+      "name": "FirenzeClaw/kimi-debug-tunnel",
+      "score": 88,
+      "slug": "firenzeclaw-kimi-debug-tunnel",
+      "url": "https://maxim-ultra.github.io/discovered/firenzeclaw-kimi-debug-tunnel/"
+    },
+    {
+      "grade": "B - solid",
+      "name": "janmalmstrom/lupaph-mcp",
+      "score": 88,
+      "slug": "janmalmstrom-lupaph-mcp",
+      "url": "https://maxim-ultra.github.io/discovered/janmalmstrom-lupaph-mcp/"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "name": "iiTzSenn/Sens",
+      "score": 94,
+      "slug": "iitzsenn-sens",
+      "url": "https://maxim-ultra.github.io/discovered/iitzsenn-sens/"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "name": "dann26parr69/auravms-mcp",
+      "score": 94,
+      "slug": "dann26parr69-auravms-mcp",
+      "url": "https://maxim-ultra.github.io/discovered/dann26parr69-auravms-mcp/"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "name": "dann26parr69/aifordatabase-mcp",
+      "score": 94,
+      "slug": "dann26parr69-aifordatabase-mcp",
+      "url": "https://maxim-ultra.github.io/discovered/dann26parr69-aifordatabase-mcp/"
+    },
+    {
+      "grade": "C - needs deeper review",
+      "name": "ai-agent-store/registry",
+      "score": 76,
+      "slug": "ai-agent-store-registry",
+      "url": "https://maxim-ultra.github.io/discovered/ai-agent-store-registry/"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "name": "sebkoo/drachma",
+      "score": 94,
+      "slug": "sebkoo-drachma",
+      "url": "https://maxim-ultra.github.io/discovered/sebkoo-drachma/"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "name": "onionuser79/Open-PR-DIGI-MCP-Server-for-Claude-AI",
+      "score": 94,
+      "slug": "onionuser79-open-pr-digi-mcp-server-for-claude-ai",
+      "url": "https://maxim-ultra.github.io/discovered/onionuser79-open-pr-digi-mcp-server-for-claude-ai/"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "name": "CyberdyneCorp/CyberPythia",
+      "score": 94,
+      "slug": "cyberdynecorp-cyberpythia",
+      "url": "https://maxim-ultra.github.io/discovered/cyberdynecorp-cyberpythia/"
+    },
+    {
+      "grade": "C - needs deeper review",
+      "name": "Himanshu-1516/Omnicart-AI",
+      "score": 76,
+      "slug": "himanshu-1516-omnicart-ai",
+      "url": "https://maxim-ultra.github.io/discovered/himanshu-1516-omnicart-ai/"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "name": "matt-huang1/verifier",
+      "score": 94,
+      "slug": "matt-huang1-verifier",
+      "url": "https://maxim-ultra.github.io/discovered/matt-huang1-verifier/"
+    },
+    {
+      "grade": "C - needs deeper review",
+      "name": "menu682/mcpe-server",
+      "score": 68,
+      "slug": "menu682-mcpe-server",
+      "url": "https://maxim-ultra.github.io/discovered/menu682-mcpe-server/"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "name": "da-troll/planhat-mcp",
+      "score": 94,
+      "slug": "da-troll-planhat-mcp",
+      "url": "https://maxim-ultra.github.io/discovered/da-troll-planhat-mcp/"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "name": "HappyMonkeyAI/ai-google-analytics-mcp",
+      "score": 94,
+      "slug": "happymonkeyai-ai-google-analytics-mcp",
+      "url": "https://maxim-ultra.github.io/discovered/happymonkeyai-ai-google-analytics-mcp/"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "name": "MathiasPaulenko/wavexis-mcp",
+      "score": 100,
+      "slug": "mathiaspaulenko-wavexis-mcp",
+      "url": "https://maxim-ultra.github.io/discovered/mathiaspaulenko-wavexis-mcp/"
+    },
+    {
+      "grade": "B - solid",
+      "name": "taherkaraki/tie-mcp-server",
+      "score": 86,
+      "slug": "taherkaraki-tie-mcp-server",
+      "url": "https://maxim-ultra.github.io/discovered/taherkaraki-tie-mcp-server/"
+    },
+    {
+      "grade": "C - needs deeper review",
+      "name": "arjunkhetia/MCP-Serverless",
+      "score": 76,
+      "slug": "arjunkhetia-mcp-serverless",
+      "url": "https://maxim-ultra.github.io/discovered/arjunkhetia-mcp-serverless/"
+    },
+    {
+      "grade": "B - solid",
+      "name": "fedosis/Composite-memory-MCP-server",
+      "score": 80,
+      "slug": "fedosis-composite-memory-mcp-server",
+      "url": "https://maxim-ultra.github.io/discovered/fedosis-composite-memory-mcp-server/"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "name": "yoshiyakato/ssh-gate-oss",
+      "score": 94,
+      "slug": "yoshiyakato-ssh-gate-oss",
+      "url": "https://maxim-ultra.github.io/discovered/yoshiyakato-ssh-gate-oss/"
+    },
+    {
+      "grade": "B - solid",
+      "name": "webworn/zemax-mcp-server",
+      "score": 88,
+      "slug": "webworn-zemax-mcp-server",
+      "url": "https://maxim-ultra.github.io/discovered/webworn-zemax-mcp-server/"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "name": "asish-singh/agent-readiness-auditor",
+      "score": 100,
+      "slug": "asish-singh-agent-readiness-auditor",
+      "url": "https://maxim-ultra.github.io/discovered/asish-singh-agent-readiness-auditor/"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "name": "Kamra-PMS/kamra-pms",
+      "score": 100,
+      "slug": "kamra-pms-kamra-pms",
+      "url": "https://maxim-ultra.github.io/discovered/kamra-pms-kamra-pms/"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "name": "Burgerjoa/llm-output-guard",
+      "score": 94,
+      "slug": "burgerjoa-llm-output-guard",
+      "url": "https://maxim-ultra.github.io/discovered/burgerjoa-llm-output-guard/"
+    },
+    {
+      "grade": "A - strong public metadata",
+      "name": "Olorinm/agent-friendly-services",
+      "score": 94,
+      "slug": "olorinm-agent-friendly-services",
+      "url": "https://maxim-ultra.github.io/discovered/olorinm-agent-friendly-services/"
+    }
+  ]
+}

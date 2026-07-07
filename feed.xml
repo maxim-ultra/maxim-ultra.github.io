@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"><channel>
+<title>MAXIM MCP Reliability Findings</title>
+<link>https://maxim-ultra.github.io/findings/</link>
+<description>Periodic reliability findings on MCP / AI-agent infrastructure.</description>
+<item><title>Reliability snapshot 2026-07-07</title>
+<link>https://maxim-ultra.github.io/findings/</link>
+<description>MCP readiness snapshot 2026-07-07: 100 servers, median score 90, 0 below 70. Grade mix: {&#x27;A&#x27;: 57, &#x27;B&#x27;: 1, &#x27;C&#x27;: 42}.</description>
+<pubDate>2026-07-07T10:54:41.513565+00:00</pubDate></item>
+</channel></rss>
